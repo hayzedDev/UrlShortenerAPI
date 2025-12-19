@@ -266,9 +266,9 @@ Same process as other APIs - the short URLs will automatically use your deployed
 
 ## 📧 Contact
 
-Created by **Hayzed Dev**
+Created by **HayzedDev**
 
-- Email: hayzeddev@example.com
+- Email: azeezade04@gmail.com
 
 ## 📄 License
 

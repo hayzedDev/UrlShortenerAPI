@@ -19,8 +19,8 @@ builder.Services.AddSwaggerGen(options =>
         Description = "A fast and efficient URL shortening service with click tracking and analytics",
         Contact = new()
         {
-            Name = "Hayzed Dev",
-            Email = "hayzeddev@example.com"
+            Name = "HayzedDev",
+            Email = "azeezade04@gmail.com"
         }
     });
 });
